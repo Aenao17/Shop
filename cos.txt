@@ -1,0 +1,1 @@
+<html><body><table style="border:1px solid black;margin-left:auto;margin-right:auto;"><tr><td>Nume</td><td>Tip</td><td>Producator</td><td>Pret</td></tr><tr><td>hhelfaa</td><td>quandaa</td><td>gmylxaaaaa</td><td>41</td></tr><tr><td>ivxbfaa</td><td>rsgwnaa</td><td>ccgkqaaaaa</td><td>95</td></tr></table></body></html>
